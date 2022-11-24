@@ -2,19 +2,19 @@
 
 🗳️ Auction
 
-    Seller of NFT deploys this contract.
+    1. Seller of NFT deploys this contract.
 
-    Auction lasts for 7 days.
+    2. Auction lasts for 7 days.
 
-    Participants can bid by depositing ETH greater than the current highest bidder.
+    3. Participants can bid by depositing ETH greater than the current highest bidder.
 
-    All bidders can withdraw their bid if it is not the current highest bid.
+    4. All bidders can withdraw their bid if it is not the current highest bid.
 
 💰 After the auction
 
-    Highest bidder becomes the new owner of NFT.
+    1. Highest bidder becomes the new owner of NFT.
 
-    The seller receives the highest bid of ETH.
+    2. The seller receives the highest bid of ETH.
 
 # Development-Goal
 
