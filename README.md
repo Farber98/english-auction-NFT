@@ -4,7 +4,7 @@
 
     1. Seller of NFT deploys this contract.
 
-    2. Auction lasts for 7 days.
+    2. Auction lasts for 60 seconds.
 
     3. Participants can bid by depositing ETH greater than the current highest bidder.
 
